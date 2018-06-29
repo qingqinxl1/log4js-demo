@@ -1,0 +1,5 @@
+[2018-06-28T19:39:58.470] [DEBUG] cheese - Got cheese.
+[2018-06-28T19:39:58.473] [INFO] cheese - Cheese is Gouda.
+[2018-06-28T19:39:58.474] [WARN] cheese - Cheese is quite smelly.
+[2018-06-28T19:39:58.474] [ERROR] cheese - Cheese is too ripe!
+[2018-06-28T19:39:58.474] [FATAL] cheese - Cheese was breeding ground for listeria.
